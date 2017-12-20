@@ -38,7 +38,7 @@ The accuracy rates shown here are 224x224 single-model single-crop test accuracy
 | clcNet-B  |(1, 1, 7, 3) |71.6%     | [Download (32.9MB)](https://drive.google.com/file/d/1nxWnmrtg1m6Hm_0Tgby3v9WQCBzjrSMI/view?usp=sharing)       |
 
 
-### Bibtext
+### BibText
 
 	@inproceedings{zhang2017clcnet,
 	  title={clcNet: Improving the Efficiency of Convolutional Neural Network using Channel Local Convolutions},
