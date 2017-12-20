@@ -33,7 +33,7 @@ th main.lua -nGPU 4 -batchSize 256 -nThreads 8 -data [your_imagenet_folder] -ret
 The accuracy rates shown here are 224x224 single-model single-crop test accuracy on the ImageNet-1k validation dataset.
 
 | Network       | Layer Config (a,b,c,d) | Top-1 Accuracy | Torch Model |
-| ------------- | ----------- | ----------- |
+| ------------- | ----------- | ----------- | ----------- |
 | clcNet-A  |(1, 1, 5, 2) | 70.4%    | [Download (26.2MB)](https://drive.google.com/file/d/1HTMHSeYx0JHlYbwevzuWG5rW8umCoon0/view?usp=sharing)       |
 | clcNet-B  |(1, 1, 7, 3) |71.6%     | [Download (32.9MB)](https://drive.google.com/file/d/1nxWnmrtg1m6Hm_0Tgby3v9WQCBzjrSMI/view?usp=sharing)       |
 
